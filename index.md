@@ -4,10 +4,10 @@ title: Home
 permalink: /
 ---
 
-## [Accordion](https://aizentranza.github.io/accordion/)
-Accordion sheet music.
-## [RailSimWeb](https://aizentranza.github.io/railsimweb/RailSimWeb.html)
+## [RailSimWeb](railsimweb/RailSimWeb.html)
 Browser-based railway simulator.
+## [Accordion](accordion)
+Accordion sheet music.
 
 ----
 ## [aizentranza.com](https://www.aizentranza.com)
