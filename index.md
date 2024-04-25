@@ -1,3 +1,9 @@
+---
+layout: page
+title: aizentranza.github.io
+permalink: /
+---
+
 ## [Accordion](https://aizentranza.github.io/accordion/)
 Accordion sheet music.
 ## [RailSimWeb](https://aizentranza.github.io/railsimweb/RailSimWeb.html)
