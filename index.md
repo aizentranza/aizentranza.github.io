@@ -1,6 +1,6 @@
 ---
 layout: page
-title: aizentranza.github.io
+title: Home
 permalink: /
 ---
 
