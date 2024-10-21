@@ -7,7 +7,8 @@ permalink: /
 ## [RailSimWeb](railsimweb/RailSimWeb.html)
 Browser-based railway simulator.
 ### Samples
-- [Railway Blockage](railsimweb/blockage-sample.html)
+- [Railway Blockage](railsimweb/blockage_sample.html)
+
 ## [Accordion](accordion)
 Accordion sheet music.
 
